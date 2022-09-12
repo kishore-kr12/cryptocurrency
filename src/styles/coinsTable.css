@@ -1,0 +1,13 @@
+.coinsTableTitle{
+    margin: 18px;
+    font-family: "Montserrat";
+}
+.table-row{
+    background-color: #16171a;
+    cursor: pointer;
+    font-family: "Montserrat";
+
+}
+.table-row:hover {
+    background-color: #131111;
+  }
